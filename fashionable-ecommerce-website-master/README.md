@@ -33,5 +33,3 @@ eMart is an eCommerce website designed to provide a seamless shopping experience
 - JavaScript
 - Bootstrap
 ---
-
-Feel free to customize and expand upon this README to fit the specific details and requirements of your project.
