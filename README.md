@@ -1,6 +1,6 @@
 eMart is an eCommerce website designed to provide a seamless shopping experience for users. It offers a wide range of products and features to cater to diverse customer needs.
 
-Features
+Features aand future goals
 Product browsing and search functionality
 User registration and authentication
 Shopping cart management
